@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'concordw00-bold';
+    src: url('concord_w00_bold-webfont.woff2') format('woff2'),
+         url('concord_w00_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'concordw00-light';
+    src: url('concord_w00_light-webfont.woff2') format('woff2'),
+         url('concord_w00_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'concordw00-regular';
+    src: url('concord_w00_regular-webfont.woff2') format('woff2'),
+         url('concord_w00_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'concordw00-thin';
+    src: url('concord_w00_thin-webfont.woff2') format('woff2'),
+         url('concord_w00_thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('source_sans_pro-webfont.woff2') format('woff2'),
+         url('source_sans_pro-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="../images/fevi_icon.png">
+      
+    <title>Guide to Cricket Odds, Betting, and Redyanna Book</title>
+    <meta name="description" content="Learn cricket betting basics, how odds work, and get tips with Redyanna Book. Discover key markets, live betting strategies, and responsible gaming practices.">
+    <meta name="google-site-verification" content="hbC5T9PrpkTFo9rqw2mRHMh6jC8pO3ROrH7SP94sYo0" />
+    <link rel="canonical" href="guide-to-cricket-odds-betting-redyanna-book" />
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link href="../asset/css/custom.css" rel="stylesheet">
+    <link href="../asset/fonts/fonts.css" rel="stylesheet">
+    <link href="../asset/css/responsive.css" rel="stylesheet">
+    <link href="../asset/css/bootstrap-datepicker3.css" rel="stylesheet">
+
+    <!-- Owl Stylesheets -->
+    <link rel="stylesheet"
+        href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css">
+
+            
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-6SP5BBDKKY"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', "G-6SP5BBDKKY");
+        </script>        
+    </head>
+
+<body class="pad">
+    <header id="navbar_top" class="fixed-top header-top py-3">
+    <nav class="navbar navbar-expand-lg navbar-light py-2 py-sm-3 font-size-16 font-weight-medium"
+        aria-label="Fifth navbar example">
+        <div class="container">
+            <a class="navbar-brand logo-header me-0 me-sm-2 me-md-3" href="../index.html"><img src="../images/logo/Site_logo_1720613453522722743.png" class="img-fluid"></a>
+            <span class="d-lg-none ms-auto me-3 me-sm-3">
+                <a href="guide-to-cricket-odds-betting-redyanna-book#"
+                    class="btn btn-light font-weight-semibold font-size-16 text-capitalize px-3 py-2 contact-header rounded-pill"><span
+                        class="d-block">Contact Us <img src="../asset/images/arrow_icon.svg" width="15"
+                            class="img-fluid ms-1"></span></a>
+            </span>
+            <button class="navbar-toggler p-0 border-0" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <img src="../asset/images/menu-list.png" class="img-fluid">
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarsExample05">
+                <ul class="navbar-nav mb-0 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page" href="../index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link  dropdown-toggle" href="../service">Services</a>
+                        <ul class="dropdown-menu position-absolute" aria-labelledby="service_dropdown">
+                                                            <li><a class="dropdown-item" href="../cricket-betting">Cricket Betting</a></li>
+                                                            <li><a class="dropdown-item" href="../tennis-betting">Tennis Betting</a></li>
+                                                            <li><a class="dropdown-item" href="../indian-card-games">Indian Card Games</a></li>
+                                                            <li><a class="dropdown-item" href="../football-betting">Football Betting</a></li>
+                                                            <li><a class="dropdown-item" href="../horse-race-betting">Horse Race Betting</a></li>
+                                                            <li><a class="dropdown-item" href="../casino">Casino</a></li>
+                                                    </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link  dropdown-toggle" href="../platforms" >Platforms</a>
+                        <ul class="dropdown-menu position-absolute">
+                            <li><a class="dropdown-item" href="../11xplay">11xplay</a></li>
+                            <li><a class="dropdown-item" href="../laser247">laser247</a></li>
+                            <li><a class="dropdown-item" href="../cricbet99">Cricbet99</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page" href="../about-us">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page" href="../sports-id">Sports ID</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="../blog">Blog</a>
+                    </li>
+                    <li class="nav-item position-relative">
+                        <a class="nav-link dropdown-toggle" type="button" id="rule_dropdown" data-bs-toggle="dropdown" aria-expanded="false" aria-current="page">Rules</a>
+                        <ul class="dropdown-menu position-absolute" aria-labelledby="rule_dropdown">
+                            <li><a class="dropdown-item" href="../privacy-policy">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="../terms-and-conditions">Terms and Conditions</a></li>
+                            <li><a class="dropdown-item" href="../disclaimer">Disclaimer</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="d-none d-lg-flex ps-4">
+                    <a href="../contact" class="btn btn-light font-weight-semibold font-size-16 text-capitalize px-3 px-xl-4 py-2 contact-header rounded-pill"><span class="d-block py-0">Contact Us <img src="../asset/images/arrow_icon.svg" width="15" class="img-fluid ms-1"></span></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+    <main>
+            <section class="home-banner position-relative banner-inner" style="background: url(../asset/images/banner01.jpg) no-repeat;">
+        <div class="container position-relative">
+            <div class="row pb-sm-2">
+                <div class="col-sm-12">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb font-size-16 justify-content-center">
+                            <li class="breadcrumb-item"><a href="guide-to-cricket-odds-betting-redyanna-book#"
+                                    class="text-decoration-none font-weight-semibold text-yellow">Home</a></li>
+                            <li class="breadcrumb-item active text-white" aria-current="page">Blog details</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+            <div class="row justify-content-between">
+                <div class="col-sm-12 text-center">
+                    <h1 class="font-weight-bold text-white font-size-50 line-hight-1 text-capitalize mb-0">
+                        A Complete Guide to Cricket Odds, Betting, and Redyanna Book
+                        
+                    </h1>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="homepad bg-yellow customer-support position-relative">
+        <div class="customerservice-img">
+            <div class="container position-relative">
+                <div class="row mb-3 mb-md-4">
+                    <div class="col-sm-12">
+                        <div class="criket-user blogdetails">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <div class=""><img src="../images/author_image/VerificationDoc_0_41711433605660267856e5f2.jpg_1712215441.jpg" alt="" class="img-fluid rounded-circle" style="height: 40px !important;width:40px !important;"></div>
+                                <div class="ps-2 ps-sm-3 d-flex align-items-center">
+                                    <span
+                                        class="mb-0 font-weight-semibold text-dark font-size-20 text-decoration-none line-hight-1">Lucky Lulu</span>
+                                    <span class="font-size-12 line-hight-1 text-dark mb-0 pt-1 ps-2">3 months ago</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-sm-12 col-md-8 text-center mx-auto">
+                        <p class="font-weight-normal text-dark font-size-16 line-hight-3 text-capitalize mb-0">
+                            Explore the basics of cricket betting, including how odds work, key betting markets, and the difference between pre-match and live bets. Get expert tips and strategies with Redyanna Book to enhance your betting experience while learning about responsible gaming and choosing the best platforms.
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="homepad green-bilar blog-list-pad pb-0">
+        <div class="container">
+            <div class="row position-relative blogdetails-big">
+                <div class="col-md-12">
+                    <div class="position-relative">
+                        <div class="bloglist-share position-absolute">
+                            <a href="guide-to-cricket-odds-betting-redyanna-book#" class="bg-white p-2 rounded-circle d-block mb-3" style="line-height: 23px;"><img src="../asset/images/share_icon.png" width="22" class="img-fluid"></a>
+                            <a href="guide-to-cricket-odds-betting-redyanna-book#" class="bg-white p-2 rounded-circle d-block" style="line-height: 26px;"><img src="../asset/images/favorites_icon.png" width="22" class="img-fluid"></a>
+                        </div>
+                        <div class="overflow-hidden rounded"><img src="../images/blog_image/Cricket&#32;Betting.jfif_1726594215.jfif" alt="" class="img-fluid w-100">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="px-2 px-sm-4">
+                <div class="row pt-5">
+                    <div class="col-md-12">
+                        
+
+
+                        <h1 style="color:white;">Introduction to Cricket Betting</h1>
+
+<p style="color:white;">Cricket betting is rapidly growing due to the sport&rsquo;s widespread popularity. From local leagues to international tournaments, platforms now allow enthusiasts to bet on various aspects of the game, including match outcomes, player performances, and more. One such resource, Redyanna Book, offers expert advice and strategic insights for improving your betting experience.</p>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>Understanding Cricket Odds Live</strong></h2>
+
+<p style="color:white;">Cricket odds represent the likelihood of a particular outcome in a match. These odds are presented in various formats, such as decimal, fractional, or American. For example, if you see live odds of 2.5 for Team A to win, it means that a successful bet would return 2.5 times the stake.</p>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>How Cricket Odds Work?</strong></h2>
+
+<p style="color:white;">Live cricket odds are dynamic and change throughout the match, depending on in-game developments like player form, injuries, or changing weather conditions. Savvy bettors keep a close eye on live odds to adjust their bets mid-match and take advantage of momentum shifts.</p>
+
+<ul>
+	<li style="color:white;">Pre-Match vs. In-Play Odds: Pre-match odds are set before the game starts based on team strengths, previous performance, and external factors like pitch conditions. In-play (live) odds fluctuate in real-time based on the match&rsquo;s progress.</li>
+	<li style="color:white;">Key Betting Markets: Match Winner: Bet on the outright winner of a match. Over/Under Bets: Predict whether the total number of runs scored by both teams will be over or under a set figure. Player Performance Bets: Wager on individual player performances, such as the number of runs a batsman will score or how many wickets a bowler will take.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>Using Redyanna Book for Betting Strategy</strong></h2>
+
+<p style="color:white;"><strong>Redyanna Book</strong> is a trusted platform that provides bettors with critical insights, including tips on understanding the changing odds, expert betting advice, and match analysis. By using Redyanna Book, bettors can gain an edge in predicting match outcomes or player performances more accurately.</p>
+
+<ul>
+	<li style="color:white;"><strong>Analyzing Team Form</strong>: Redyanna Book provides detailed analysis on team form, injury reports, and head-to-head records that are invaluable when placing bets.</li>
+	<li style="color:white;"><strong>Tracking Player Form</strong>: Knowing which players are in top form can heavily influence your betting choices. Redyanna Book provides up-to-date stats on key players and their recent performances, helping you make better-informed bets.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>Best Betting Websites</strong></h2>
+
+<p style="color:white;">Choosing the <a href="../cricket-betting"><strong>best cricket betting website</strong></a> is crucial for a seamless and secure betting experience. Top platforms offer a wide variety of cricket betting markets, competitive odds, and safe payment methods. Some key factors to consider include:</p>
+
+<ul>
+	<li style="color:white;"><strong>Reputation</strong>: Ensure the website is well-regarded in the betting community and holds the necessary licenses.</li>
+	<li style="color:white;"><strong>Ease of Use</strong>: The website should offer a user-friendly interface that allows for easy navigation and quick bet placements.</li>
+	<li style="color:white;"><strong>Live Betting Options</strong>: A good betting website should offer in-play betting options with real-time odds updates.</li>
+	<li style="color:white;"><strong>Payment Methods</strong>: Choose platforms that support a variety of secure payment methods for deposits and withdrawals.</li>
+	<li><strong>Mobile Compatibility</strong>: For those who like to bet on the go, the website should have a responsive mobile interface or app.</li>
+</ul>
+
+<p style="color:white;">Some of the <strong>best betting websites</strong> for cricket include Betway, Bet365, and 1xBet, all of which offer competitive odds and diverse betting markets.</p>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>Cricket Online ID</strong></h2>
+
+<p style="color:white;">When betting on cricket matches, having a cricket online ID is necessary to access betting platforms and manage your bets. Most platforms require users to create an account, verify their identity, and deposit funds before they can place bets. Having a valid online ID not only ensures secure betting but also helps with transaction tracking and accessing customer support.</p>
+
+<ul>
+	<li style="color:white;"><strong>How to Create a Cricket Online ID</strong>:
+
+	<ul>
+		<li style="color:white;">Choose a reputable betting website.</li>
+		<li style="color:white;">Complete the registration process by providing basic details (name, email, etc.).</li>
+		<li style="color:white;">Verify your identity by submitting necessary documents.</li>
+		<li style="color:white;">Once your ID is created, deposit funds to start betting on your favorite cricket matches.</li>
+	</ul>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>Betting Tips and Responsible Gaming</strong></h2>
+
+<p style="color:white;">While betting can be a fun way to engage with cricket, it&rsquo;s essential to practice responsible gaming. Set a budget for yourself and never chase losses. Using tools like <a href="../index.html"><strong>Redyanna Book</strong></a> can help guide your bets more strategically and reduce risk.</p>
+
+<h3 style="color:white;"><strong>Top Tips for Cricket Betting</strong>:</h3>
+
+<ul>
+	<li style="color:white;"><strong>Research the Teams and Players</strong>: Knowledge is power in betting. Study player and team stats, pitch conditions, and other factors that may influence the match&rsquo;s outcome.</li>
+	<li style="color:white;"><strong>Stay Updated on News</strong>: Keep track of injury reports, team changes, and weather forecasts as they can have a significant impact on a game.</li>
+	<li style="color:white;"><strong>Manage Your Bankroll</strong>: Set a budget for your bets and stick to it. Avoid placing large wagers that could lead to significant losses.</li>
+	<li style="color:white;"><strong>Bet with a Clear Mind</strong>: Never bet under emotional or psychological pressure. Make calculated decisions based on research and analysis.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>The Future of Online Cricket Betting</strong></h2>
+
+<p style="color:white;">Online betting on cricket has grown significantly in recent years and is expected to continue its upward trajectory. With the rise of T20 leagues like the Indian Premier League (IPL) and The Hundred, more people are engaging in live betting. As more websites embrace live odds, bettors can expect even more features, like virtual cricket betting and AI-driven odds prediction.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="color:white;"><strong>Key Trends to Watch</strong>:</h3>
+
+<ul>
+	<li style="color:white;"><strong>Mobile Betting</strong>: As mobile use increases, more platforms are optimizing their betting services for smartphones.</li>
+	<li style="color:white;"><strong>Virtual Cricket Betting</strong>: Some platforms are offering virtual cricket games for betting, allowing fans to bet on simulated matches.</li>
+	<li style="color:white;"><strong>AI &amp; Data-Driven Betting</strong>: Expect platforms to incorporate more AI-based predictions and data analytics to help users make informed decisions.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 style="color:white;"><strong>Conclusion</strong></h2>
+
+<p style="color:white;">Betting on cricket, when done responsibly, can enhance your enjoyment of the sport. Using resources like <strong>Redyanna Book</strong> to stay updated on live odds, player statistics, and expert analysis can make a huge difference in your betting strategy. Always choose the best betting website for secure transactions and competitive odds. With proper research, discipline, and a good understanding of how cricket odds work, bettors can significantly improve their chances of success.</p>
+
+<p style="color:white;">This expanded blog adds more depth to each section, incorporating a detailed look at cricket odds, live betting strategies, and how to utilize Redyanna Book for a more informed betting experience. Let me know if you&#39;d like more content or adjustments to the structure!</p>
+                        
+
+                        <div class="pt-2 pt-md-4 mt-md-3 position-relative banner-btn text-center">
+                            <a href="guide-to-cricket-odds-betting-redyanna-book#" class="btn btn-warning btn-design font-weight-semibold font-size-16 text-capitalize px-4 py-2 rounded-pill"><span class="d-block py-1 px-3">Cricket <img src="../asset/images/arrow_icon.svg" width="15" class="img-fluid ms-1"></span></a>
+                        </div>
+
+                        <div class="row pt-5">
+                            <div class="col-md-12">
+                                <div class="rounded p-4 p-lg-5 text-center"
+                                    style="background: url(../asset/images/socialmedia-bg.png); background-repeat: no-repeat;">
+                                    <div class="row justify-content-between align-items-center">
+                                        <div class="col-sm">
+                                            <div class="d-flex socialmedia-icon align-items-center justify-content-center justify-content-md-start">
+                                                <span class="font-weight-semibold text-white font-size-18 line-hight-1 text-capitalize pe-1 pe-lg-2">social media</span>
+                                                <a href="guide-to-cricket-odds-betting-redyanna-book#" class="ig mx-2"></a>
+                                                <a href="guide-to-cricket-odds-betting-redyanna-book#" class="pt mx-2"></a>
+                                                <a href="guide-to-cricket-odds-betting-redyanna-book#" class="wa mx-2"></a>
+                                                <a href="guide-to-cricket-odds-betting-redyanna-book#" class="sd mx-2"></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-auto pt-3 pt-md-0 text-muted font-size-16 line-hight-3 link text-center text-md-end">
+                                                                                            <a href="guide-to-cricket-odds-betting-redyanna-book#" class="font-weight-normal text-muted font-size-16 line-hight-3 text-capitalize text-decoration-none">Cricket</a>
+                                                                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row pt-5 mt-1 mt-lg-3">
+                            <div class="col-md-12 text-center">
+                                <h2 class="font-weight-bold text-white font-size-45 line-hight-1 text-capitalize mb-3"> Recent <span class="heading-text">Posts</span></h2>
+                            </div>
+                        </div>
+
+                        <div class="row">
+
+                                                            <div class="col-md-4 mt-4">
+                                    <div class="card h-100 border-0 blog-col bg-transparent">
+                                        <div class="position-relative overflow-hidden blogbox rounded mb-3 mb-lg-4"><img src="../images/blog_image/tennis&#32;betting.jpg_1727026102.jpg" alt="" class="img-fluid w-100"></div>
+                                        <div class="card-body p-0">
+                                            <h5 class="mb-3 line-hight-2 fw-bold"><a href="a-complete-guide-to-tennis-betting-and-using-reddyanna-book"
+                                                    class="text-white font-size-20 text-decoration-none line-hight-1 d-block">A Complete Guide to Tennis Betting and U...</a> </h5>
+                                            <div class="mt-2">
+                                                <span
+                                                    class="text-muted date-blog font-size-14 font-weight-medium d-flex align-items-center"><img
+                                                        src="../asset/images/dateicon.svg" alt="" class="img-fluid me-2">Jan 08, 2025</span>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                            <div class="col-md-4 mt-4">
+                                    <div class="card h-100 border-0 blog-col bg-transparent">
+                                        <div class="position-relative overflow-hidden blogbox rounded mb-3 mb-lg-4"><img src="../images/blog_image/Reddy&#32;Anna&#32;.jpg_1724730188.jpg" alt="" class="img-fluid w-100"></div>
+                                        <div class="card-body p-0">
+                                            <h5 class="mb-3 line-hight-2 fw-bold"><a href="reddy-anna-book-reddybook-id-reddybookclub-same-name-of-reddy-anna"
+                                                    class="text-white font-size-20 text-decoration-none line-hight-1 d-block">Is Reddy Anna Book, ReddyBook ID, ReddyB...</a> </h5>
+                                            <div class="mt-2">
+                                                <span
+                                                    class="text-muted date-blog font-size-14 font-weight-medium d-flex align-items-center"><img
+                                                        src="../asset/images/dateicon.svg" alt="" class="img-fluid me-2">Jan 08, 2025</span>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                            <div class="col-md-4 mt-4">
+                                    <div class="card h-100 border-0 blog-col bg-transparent">
+                                        <div class="position-relative overflow-hidden blogbox rounded mb-3 mb-lg-4"><img src="../images/blog_image/Reddy&#32;Anna&#32;vs&#32;Other&#32;Betting&#32;Sites.jpg_1724127208.jpg" alt="" class="img-fluid w-100"></div>
+                                        <div class="card-body p-0">
+                                            <h5 class="mb-3 line-hight-2 fw-bold"><a href="reddy-anna-book-club-id-vs-other-betting-sites"
+                                                    class="text-white font-size-20 text-decoration-none line-hight-1 d-block">Reddy Anna vs Other Betting Sites: What...</a> </h5>
+                                            <div class="mt-2">
+                                                <span
+                                                    class="text-muted date-blog font-size-14 font-weight-medium d-flex align-items-center"><img
+                                                        src="../asset/images/dateicon.svg" alt="" class="img-fluid me-2">Jan 08, 2025</span>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                    </div>
+                        <div class="pt-4 pt-md-5 position-relative banner-btn text-center">
+                            <a href="../blog"
+                                class="btn btn-warning btn-design font-weight-semibold font-size-16 text-capitalize px-4 py-2 rounded-pill"><span
+                                    class="d-block py-1 px-3">view all blogs <img src="../asset/images/arrow_icon.svg"
+                                        width="15" class="img-fluid ms-1"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+        <footer class="footer-bg"
+    style="background: url(../asset/images/footer-bg.svg); background-repeat: no-repeat; background-position: center top;">
+    <div class="container">
+
+        
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="py-4 py-md-5"><a class="me-0 footer-logo" href="../index.html"><img src="../images/logo/Site_logo_1720613453522722743.png" class="img-fluid"></a></div>
+                <div>
+                    <a class="text-muted font-size-20 text-decoration-none" href="https://wa.link/reddywal">
+                        info@reddyannabok.com
+                    </a>
+                </div>
+                <div class="font-size-30 font-weight-semibold pt-4">
+                    <a href="https://wa.link/reddywal" target="_blank" class="text-white text-decoration-none">
+                        +91 9122669497
+                    </a>
+                </div>
+                <div class="text-muted font-size-30 font-weight-normal pt-4">
+                    <a class="text-muted font-size-14 text-decoration-none" href="../about-us">About Us</a>
+                    <span class="text-muted font-size-14">|</span>
+                    <a class="text-muted font-size-14 text-decoration-none" href="../contact">Contact Us</a>
+                    <span class="text-muted font-size-14">|</span>
+                    <a class="text-muted font-size-14 text-decoration-none" href="../sports-id">Sports Id</a>
+                    <span class="text-muted font-size-14">|</span>
+                    <a class="text-muted font-size-14 text-decoration-none" href="../terms-and-conditions">Terms and Conditions</a>
+                    <span class="text-muted font-size-14">|</span>
+                    <a class="text-muted font-size-14 text-decoration-none" href="../privacy-policy">Privacy Policy</a>
+                    <span class="text-muted font-size-14">|</span>
+                    <a class="text-muted font-size-14 text-decoration-none" href="../disclaimer">Disclaimer</a>
+                    <span class="text-muted font-size-14">|</span>
+                    <a class="text-muted font-size-14 text-decoration-none" href="../blog">Blog</a>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-sm-12 col-md-10 col-lg-9 mx-auto">
+                <div class="rounded-pill bg-yellow-light py-2 px-4 font-size-12 text-center ">
+                    Copyright © 2024 Reddy Anna Book. All rights reserved. Unauthorized reproduction or
+                    distribution
+                    of any content on this website is prohibited.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="whatsapp-btn">
+    <a href="https://wa.link/reddywal" target="_blank">
+        <img src="../asset/images/2504845.png" alt="WhatsApp">
+    </a>
+</div>
+</footer>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+    <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js"></script>
+    <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
+    <script type= "text/javascript" src= "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script>
+        $(document).ready(function() {
+            $('.whatsapp').owlCarousel({
+                loop: true,
+                margin: 25,
+                responsiveClass: true,
+                autoplay: true,
+                autoplayTimeout: 3000,
+                nav: false,
+                dots: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    480: {
+                        items: 2
+                    },
+                    768: {
+                        items: 3
+                    }
+                }
+            });
+
+        })
+    </script>
+    <script type="text/javascript">
+        document.addEventListener('scroll', function() {
+            if (window.scrollY > 100) {
+                $("#navbar_top").addClass("fixed-tops");
+                document.getElementById('navbar_top').classList.add('fixed-tops');
+                navbar_height = document.querySelector('.navbar').offsetHeight;
+                document.body.style.paddingTop = navbar_height + 'px';
+            } else {
+                $("#navbar_top").removeClass("fixed-tops");
+                document.getElementById('navbar_top').classList.remove('fixed-tops');
+                document.body.style.paddingTop = '0';
+            }
+        }, false);
+        document.addEventListener("DOMContentLoaded", function() {
+            document.addEventListener('scroll', function() {
+                if (window.scrollY > 100) {
+                    document.getElementById('navbar_top').classList.add('fixed-tops');
+                    navbar_height = document.querySelector('.navbar').offsetHeight;
+                    document.body.style.paddingTop = navbar_height + 'px';
+                } else {
+                    document.getElementById('navbar_top').classList.remove('fixed-tops');
+                    document.body.style.paddingTop = '0';
+                }
+            }, false);
+        });
+    </script>
+
+</body>
+
+</html>

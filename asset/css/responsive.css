@@ -1,0 +1,139 @@
+@media only screen and (min-width: 1367px) and (max-width: 5400px)  {
+    .annablog {padding-top: 16.5rem;}
+    .happy-customers::before {margin-top: -50.1vw;}
+    .happy-customers::after {margin-bottom: -50.1vw;}
+    .happy-customers-img > div {margin: -21rem -8rem 0px -8rem;}
+    .happy-customers {margin-top: 29rem;}
+    .steps-section::after {bottom: -14.8vw;}
+    .blog-list-pad {padding-top: 22rem;}
+    .blogdetails-big {margin-top: -320px;}
+    }
+    @media screen and (max-width: 1365px) {
+    .font-size-60 {font-size: 50px;}
+    .header-top .logo-header img {max-width: 130px;}	
+    }
+    
+    @media screen and (max-width: 1024px) {
+    .blog-list-pad {padding-top: 14rem !important;}
+    .blogdetails-big {margin-top: -208px;}
+    }
+    
+    
+    
+    @media screen and (max-width: 991px) {
+    .font-size-45 {font-size: 35px;}	
+    .font-size-40 {font-size: 26px;}
+    .font-size-36 {font-size: 24px;}
+    .font-size-34 {font-size: 26px;}
+    .font-size-24 {font-size: 20px;}	
+    .font-size-26 {font-size: 22px;}
+    .font-size-22 {font-size: 20px;}
+    .font-size-20 {font-size: 18px;}
+    .font-size-18 {font-size: 16px;}
+    .font-size-15 {font-size: 14px;}
+    .homepad {padding-top: 3.5rem; padding-bottom: 3.5rem;}
+    .annablog {padding-top: 9.5rem !important;}
+    .happy-customers::before {margin-top: -54.9vw;}
+    .happy-customers::after {margin-bottom: -54.9vw;}
+    .happy-customers-img > div {margin: -6rem -1rem 0px -5rem;}
+    .happy-customers {margin-top: 16rem;}
+    .whychoose {padding-top: 20rem !important;}
+    .home-banner {padding-top: 130px; padding-bottom: 85px;}
+    .happyclients img {max-width: 50px;}
+    .footer-logo img {max-width: 200px;}
+    .steps-section::after {bottom: -14.9vw;}
+    .steps-section .steps-btn {max-width: 248px; bottom: -32px;}
+    .blog-list-pad {padding-top: 11rem !important;}
+    .blogdetails-big {margin-top: -170px;}
+    .search-box {margin-top: 2rem; margin-bottom: 1rem;}
+    }
+    
+    /*-------------Menu Design Start--------------*/
+    @media screen and (max-width: 991px) {
+    .header-top .navbar .navbar-collapse {position: absolute; left: 0; right: 0; top: -18px; background: #14161a; width: auto; margin-left: auto; margin-right: auto; z-index: -1; padding-top: 102px;}
+    .header-top .nav-menu {margin-left: 0; position: absolute; top: 68px; right: 11px; left: 11px; background: #000; z-index: 1; padding: 0px; box-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;}
+    .header-top ul.navbar-nav li.nav-item.dropdown > a::after{border: solid #fff; border-width: 0 2px 2px 0; display: inline-block; padding: 3px; transform: rotate(-45deg); -webkit-transform: rotate(-45deg); float: right; margin-left: 0; margin-top: 5px;}
+    .header-top ul.navbar-nav li.nav-item.show .dropdown-menu.submenu {background: #1c6dc4; margin-top: 0; border-bottom: 1px solid rgba(193, 193, 193, 0.3) !important; padding-top: 0;}
+    .header-top ul.navbar-nav > li.show > a {border: none; background: #1c6dc4;}
+    .header-top ul.navbar-nav .dropdown-menu.submenu ul.list-unstyled li.nav-item a {color: #fff  !important; font-size: 14px;}
+    .header-top ul.navbar-nav .dropdown-menu.submenu ul.list-unstyled li.nav-item:hover a {color: #ff5400 !important;}
+    .header-top ul.navbar-nav .dropdown-menu.submenu ul.list-unstyled li.nav-item a::before {content: ""; background: #fff !important; width: 4px; height: 4px; display: inline-block; vertical-align: middle !important; margin-right: 10px; border-radius: 100%;}
+    .header-top ul.navbar-nav .dropdown-menu.submenu ul.list-unstyled li.nav-item:hover a::before{background: #ff5400 !important;}
+    .header-top ul.navbar-nav > li > a {padding: .7rem 1rem !important; color: #fff !important; border-bottom: 1px solid rgba(255, 255, 255, 0.3);}
+    .header-top ul.navbar-nav > li > a:hover {background: #ffc300; color: #14161a !important;}
+    .header-top .nav-menu button {width: 100%; border-radius: 0; padding: 4px !important;}
+    .header-top .navbar-expand-lg .navbar-nav > li.nav-item a.active, 
+    .header-top .navbar-expand-lg .navbar-nav > li.nav-item:hover a {color: #14161a !important; background-color: #FFDA33}
+    .header-top ul.navbar-nav li.nav-item:last-child a{border-bottom: 0 !important;}
+    }
+    /*-------------Menu Design End--------------*/
+    
+    @media screen and (max-width: 767px) {
+    .font-size-60 {font-size: 40px;}	
+    .font-size-50 {font-size: 34px;}
+    .font-size-45 {font-size: 28px;}
+    .font-size-40 {font-size: 24px;}
+    .font-size-36 {font-size: 24px;}
+    .font-size-30 {font-size: 22px;}
+    .font-size-28 {font-size: 22px;}
+    .font-size-24 {font-size: 18px;}
+    .font-size-22 {font-size: 16px;}
+    .font-size-16 {font-size: 14px;}
+    .line-hight-3 {line-height: 1.4;}
+    .homepad {padding-top: 3rem; padding-bottom: 3rem;}
+    .happy-customers {margin-top: 11rem;}
+    .happy-customers-img > div {margin: 2rem auto 0;}
+    footer.footer-bg {padding: 4rem 0 2rem;}
+    .accordionhome .accordion-item {margin-bottom: 10px;}
+    .steps-section .steps-btn {max-width: 230px;}
+    .customer-support::before {margin-left: -4rem; margin-left: -4rem;}
+    .customer-support::after {margin-left: -4rem; margin-right: -4rem;}
+    .happy-customers::before {margin-left: -4rem; margin-right: -4rem;}
+    .happy-customers::after {margin-left: -4rem; margin-right: -4rem;}
+    .steps-section::after {margin-left: -4rem; margin-right: -4rem;}
+    .whychoose {padding-top: 18rem !important;}
+    .steps-section::after {bottom: -15.9vw;}
+    .customer-support::before {top: -12.8vw; height: 14vw;}
+    .customer-support::after {height: 14vw;}
+    .blog-list-pad {padding-top: 9rem !important;}
+    .blogdetails-big {margin-top: -138px;}
+    .contact-header {padding-top: 7px !important; padding-bottom: 7px !important;}
+    .home-banner {padding-top: 110px; padding-bottom: 75px;}
+    .criket-user img {max-width: 30px;}
+    .breadcrumb-item + .breadcrumb-item::before {width: 14px; height: 10px; bottom: -3px; background-size: 14px;}
+    .bloglist-share {width: 30px;}
+    .bloglist-share a {width: 30px; height: 30px;}
+    .bloglist-share a img {max-width: 16px;}
+    .bloglist-share a:first-child {line-height: 14px !important;}
+    .bloglist-share a:last-child {line-height: 16px !important;}
+    .customerservice-img::before {top: -2rem; bottom: -2rem; width: 30%;}
+    }
+    
+    
+    @media screen and (max-width: 575px) {
+    .font-size-60 {font-size: 30px;}	
+    .font-size-50 {font-size: 28px;}	
+    .font-size-40 {font-size: 20px;}
+    .font-size-30 {font-size: 18px;}
+    .font-size-20 {font-size: 17px;}
+    .footer-logo img {max-width: 170px;}
+    .blog-list-pad {padding-top: 8rem !important;}
+    .customer-support::after {height: 16vw;}
+    .blogdetails-big {margin-top: -126px;}
+    .homepad {padding-top: 2.5rem; padding-bottom: 2.5rem;}
+    .header-top .navbar .navbar-collapse {padding-top: 92px;}
+    }
+    
+    @media screen and (max-width: 479px) {
+    .contact-header {font-size: 13px;}
+    .blog-list-pad {padding-top: 6rem !important;}
+    .blogdetails-big {margin-top: -100px;}
+    .header-top .logo-header img {max-width: 100px;}
+    .servicesbox {width: 100%; position: relative !important;}
+    .servicesbox_l::after {border-bottom: 0; right: 0; top: auto; left: 30px; bottom: -16px; border-left: 12px solid transparent; border-right: 12px solid transparent;	border-top: 16px solid #FFE44A;}
+    .servicesbox_r::before {border-bottom: 0; top: auto; left: 30px; bottom: -18px;	border-left: 14px solid transparent; border-right: 14px solid transparent; border-top: 18px solid #FFF;}
+    .servicesbox_b::after {left: 30px; bottom: -18px; border-left: 14px solid transparent; border-right: 14px solid transparent; border-top: 18px solid #EDFF7D;}
+    .call-banner a {min-width: 240px; max-width: 240px;}
+    .search-box {margin-top: 1.3rem;}
+    .header-top .navbar .navbar-collapse {padding-top: 82px;}
+    }
